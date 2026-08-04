@@ -3,6 +3,9 @@
 An enterprise-inspired architectural breakdown of a retail sales processing engine built inside SAP ERP. This project demonstrates modular programming decoupling, functional signature interfaces, and transactional logic pipelines using **Function Groups (FG)** and **Function Modules (FM)** within the ABAP runtime environment.
 
 ---
+<img width="640" height="333" alt="Sales Report Output" src="https://github.com/user-attachments/assets/b27cb995-4e9e-4f33-a68c-43991415ca16" />
+
+---
 
 ## 🏗️ Core Application Architecture Topology
 
